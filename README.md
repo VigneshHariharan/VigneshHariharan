@@ -5,7 +5,7 @@
 ## Hi, I am Vignesh,software developer.
 
 ## About Me:
+
 - 🔭 I am working on React,React-native,Typescript,Redux.
-- 🌱 I am still learning Javascript. 
 - 📫 twitter: https://twitter.com/Vigneshph22
 
