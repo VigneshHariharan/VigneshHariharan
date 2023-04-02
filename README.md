@@ -8,4 +8,5 @@
 
 - 🔭 I am working on React,React-native,Typescript,Redux.
 - 📫 twitter: https://twitter.com/Vigneshph22
-
+- Medium: https://medium.com/@phvigneshariharan
+- Portfolio: https://vigneshhariharan.com/
